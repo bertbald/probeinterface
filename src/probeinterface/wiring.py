@@ -45,6 +45,12 @@ pathways = {
         # connector J1 BOTTOM
         55, 53, 54, 52, 51, 50, 49, 48, 47, 15, 13, 12, 11, 9, 10, 8,
         63, 62, 61, 60, 59, 58, 57, 56, 7, 6, 5, 4, 3, 2, 1, 0
+
+    # from PDF documention of mini-amp-64 page 5, done by Robert Taylor
+    'cambridgeneurotech_mini-amp-64-J2': [
+        # connector J2 TOP
+        41, 39, 38, 37, 35, 34, 33, 32, 29, 30, 28, 26, 25, 24, 22, 20,
+        46, 45, 44, 43, 42, 40, 36, 31, 27, 23, 21, 18, 19, 17, 16, 14,
     ]
 }
 # fmt: on
